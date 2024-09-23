@@ -65,3 +65,10 @@ button {
   /* background-color: rgb(8, 136, 186); */
   background-color: #4cc2ff;
 }
+
+
+@media (max-width: 450px) {
+  .main-div {
+    margin: 100px 0px 0px 0px;
+  }
+}
